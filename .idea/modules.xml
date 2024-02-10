@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Authentification-service/Authentification-service.iml" filepath="$PROJECT_DIR$/Authentification-service/Authentification-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/TODO.iml" filepath="$PROJECT_DIR$/.idea/TODO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task-service/Task-service.iml" filepath="$PROJECT_DIR$/Task-service/Task-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-service/config-service.iml" filepath="$PROJECT_DIR$/config-service/config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/gateway-service/gateway-service.iml" />
     </modules>
   </component>
 </project>
